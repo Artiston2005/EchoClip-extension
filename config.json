@@ -1,11 +1,26 @@
 {
-  "features": {
-    "enableAds": true,
-    "enableProUpgrade": false
-  },
+  "enableAds": true,
+  "enableProUpgrade": false,
   "ad": {
-    "title": "EchoClip Pro",
-    "text": "Unlock unlimited history, cloud sync, and cross-device sharing with EchoClip Pro. Upgrade today!",
-    "url": "https://example.com"
-  }
+    "title": "NordVPN Summer Sale",
+    "text": "Get 68% off + 3 months free. Stay secure online.",
+    "url": "https://nordvpn.com/special"
+  },
+  "shareLinks": {
+    "chrome": "https://chrome.google.com/webstore/detail/echoclip/YOUR_CHROME_ID",
+    "firefox": "https://addons.mozilla.org/en-US/firefox/addon/echoclip/",
+    "edge": "https://microsoftedge.microsoft.com/addons/detail/echoclip/YOUR_EDGE_ID"
+  },
+  "developerApps": [
+    {
+      "name": "Focus Flow",
+      "description": "Block distracting websites automatically",
+      "icon": "🌊",
+      "urls": {
+        "chrome": "https://chrome.google.com/webstore/detail/focusflow/YOUR_CHROME_ID",
+        "firefox": "https://addons.mozilla.org/en-US/firefox/addon/focusflow/",
+        "edge": "https://microsoftedge.microsoft.com/addons/detail/focusflow/YOUR_EDGE_ID"
+      }
+    }
+  ]
 }
