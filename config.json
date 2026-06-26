@@ -1,0 +1,11 @@
+{
+  "features": {
+    "enableAds": true,
+    "enableProUpgrade": true
+  },
+  "ad": {
+    "title": "EchoClip Pro",
+    "text": "Unlock unlimited history, cloud sync, and cross-device sharing with EchoClip Pro. Upgrade today!",
+    "url": "https://example.com"
+  }
+}
