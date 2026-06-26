@@ -1,7 +1,7 @@
 {
   "features": {
     "enableAds": true,
-    "enableProUpgrade": true
+    "enableProUpgrade": false
   },
   "ad": {
     "title": "EchoClip Pro",
