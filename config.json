@@ -1,10 +1,11 @@
 {
+  "apiBaseUrl": "https://clarity-backend-vert.vercel.app/api",
   "proPrice": "$4.99",
   "developerEmail": "ashwwinyadav2408@gmail.com",
   "licenseDbUrl": "https://raw.githubusercontent.com/Artiston2005/EchoClip-extension/refs/heads/main/licenses.json",
   "enableAds": true,
   "enableProUpgrade": true,
-    "ads": [
+  "ads": [
     {
       "title": "Ad Sponsor 1",
       "text": "This is the first sponsored ad text.",
