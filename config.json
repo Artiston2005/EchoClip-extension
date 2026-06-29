@@ -4,11 +4,23 @@
   "licenseDbUrl": "https://raw.githubusercontent.com/Artiston2005/EchoClip-extension/refs/heads/main/licenses.json",
   "enableAds": false,
   "enableProUpgrade": true,
-  "ad": {
-    "title": "NordVPN Summer Sale",
-    "text": "Get 68% off + 3 months free. Stay secure online.",
-    "url": "https://nordvpn.com/special"
-  },
+    "ads": [
+    {
+      "title": "Ad Sponsor 1",
+      "text": "This is the first sponsored ad text.",
+      "url": "https://example.com/ad1"
+    },
+    {
+      "title": "Ad Sponsor 2",
+      "text": "This is the second sponsored ad text.",
+      "url": "https://example.com/ad2"
+    },
+    {
+      "title": "Ad Sponsor 3",
+      "text": "This is a third sponsored ad text.",
+      "url": "https://example.com/ad3"
+    }
+  ],
   "shareLinks": {
     "chrome": "https://chrome.google.com/webstore/detail/echoclip/YOUR_CHROME_ID",
     "firefox": "https://addons.mozilla.org/en-US/firefox/addon/echoclip/",
