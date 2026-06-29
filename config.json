@@ -1,7 +1,7 @@
 {
   "proPrice": "$4.99",
   "developerEmail": "ashwwinyadav2408@gmail.com",
-  "licenseDbUrl": "https://raw.githubusercontent.com/Artiston2005/FocusFlow-extension/refs/heads/main/licenses.json",
+  "licenseDbUrl": "https://raw.githubusercontent.com/Artiston2005/EchoClip-extension/refs/heads/main/licenses.json",
   "enableAds": false,
   "enableProUpgrade": true,
   "ad": {
@@ -18,7 +18,7 @@
     {
       "name": "Clarity Block",
       "description": "Block distractions. Stay focused. Get more done.",
-      "icon": "🎯",
+      "icon": "https://raw.githubusercontent.com/Artiston2005/FocusFlow-extension/refs/heads/main/icon.png",
       "urls": {
         "chrome": "https://chrome.google.com/webstore/detail/focusflow/YOUR_CHROME_ID",
         "firefox": "https://addons.mozilla.org/en-US/firefox/addon/focusflow/",
