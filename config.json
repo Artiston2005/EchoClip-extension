@@ -1,5 +1,8 @@
 {
-  "enableAds": true,
+  "proPrice": "$4.99",
+  "developerEmail": "ashwwinyadav2408@gmail.com",
+  "licenseDbUrl": "https://raw.githubusercontent.com/Artiston2005/FocusFlow-extension/refs/heads/main/licenses.json",
+  "enableAds": false,
   "enableProUpgrade": true,
   "ad": {
     "title": "NordVPN Summer Sale",
@@ -13,9 +16,9 @@
   },
   "developerApps": [
     {
-      "name": "Focus Flow (Coming soon)",
-      "description": "Block distracting websites automatically",
-      "icon": "🌊",
+      "name": "Clarity Block",
+      "description": "Block distractions. Stay focused. Get more done.",
+      "icon": "🎯",
       "urls": {
         "chrome": "https://chrome.google.com/webstore/detail/focusflow/YOUR_CHROME_ID",
         "firefox": "https://addons.mozilla.org/en-US/firefox/addon/focusflow/",
