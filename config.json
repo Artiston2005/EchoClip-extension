@@ -5,7 +5,7 @@
   "licenseDbUrl": "https://raw.githubusercontent.com/Artiston2005/EchoClip-extension/refs/heads/main/licenses.json",
   "enableAds": true,
   "enableProUpgrade": true,
-  ],
+  
   "shareLinks": {
     "chrome": "https://chrome.google.com/webstore/detail/echoclip/YOUR_CHROME_ID",
     "firefox": "https://addons.mozilla.org/en-US/firefox/addon/echoclip/",
